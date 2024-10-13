@@ -1,2 +1,2 @@
 # SMIT-ASSIGNMENT
-HTML-CSS First Project
+HTML-CSS First Assignment
