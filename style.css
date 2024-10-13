@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+}
+
+body {
+    /* background-color: rgb(50, 186, 74); */
+    background: url(Images/Backgroung\ PIC\ page.jpg);
+}
+
+.navbar {
+    background-color: green;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 30px;
+    font-family: 'Times New Roman';
+    font-size: larger;
+
+}
+
+img {
+    height: 120px;
+    width: 120px;
+}
+
+td {
+    padding-right: 50px;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}

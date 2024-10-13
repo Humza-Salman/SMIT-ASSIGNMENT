@@ -1,0 +1,14 @@
+*{
+    padding: o;
+    margin: 0;
+}
+marquee{
+    background-color: rgb(3, 140, 252);
+    height: 80px;
+    text-transform: capitalize;
+    place-content: center;
+}
+img{
+    height: 300px;
+    margin: 10px;
+}
